@@ -65,7 +65,7 @@ img{
 #msg{
     background-color: #081b31;
     color:white;
-    font-size: 2rem;
+    font-size: 1rem;
     display: inline;
     padding: 1rem;
     border-radius:1rem;
@@ -93,4 +93,5 @@ img{
     h2{
         display:none;
     }
+
 }
