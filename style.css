@@ -65,14 +65,14 @@ img{
 #msg{
     background-color: #081b31;
     color:white;
-    font-size: 1rem;
+    font-size: 2rem;
     display: inline;
     padding: 1rem;
     border-radius:1rem;
 }
 @media(max-width:440px){
     #msg{
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
     .gameimg{
         height: 300px;
@@ -95,3 +95,4 @@ img{
     }
 
 }
+
